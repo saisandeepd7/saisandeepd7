@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFL6vc3dVc/Ih_fLzCPPXM_gaUhYXxJww/view?utm_content=DAFL6vc3dVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFL6vc3dVc/Ih_fLzCPPXM_gaUhYXxJww/view?utm_content=DAFL6vc3dVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
