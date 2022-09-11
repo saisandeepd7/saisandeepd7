@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisandeepd7&label=Profile%20views&color=0e75b6&style=flat" alt="saisandeepd7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisandeepd7" alt="saisandeepd7" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://saisandeep-portfolio.netlify.app/](https://saisandeep-portfolio.netlify.app/)
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisandeepd7&show_icons=true&locale=en&layout=compact" alt="saisandeepd7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisandeepd7&show_icons=true&locale=en" alt="saisandeepd7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisandeepd7&" alt="saisandeepd7" /></p>
