@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **dsandeep3690@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFL6vc3dVc/Ih_fLzCPPXM_gaUhYXxJww/view?utm_content=DAFL6vc3dVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFL6vc3dVc/Ih_fLzCPPXM_gaUhYXxJww/view?utm_content=DAFL6vc3dVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1BKxKQWJRn62DY7IbbdfYXJmOjdY1fGdV/view?usp=sharing
 
 <p align="left">
 </p>
