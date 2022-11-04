@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saisandeep-portfolio.netlify.app/](https://saisandeep-portfolio.netlify.app/)
 
-- 💬 Ask me about **Node React**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **dsandeep3690@gmail.com**
 
